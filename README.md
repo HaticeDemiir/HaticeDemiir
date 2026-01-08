@@ -1,11 +1,27 @@
-I'm Hatice Demir A passionate Backend Developer.                                                                                                
-🎓 I am currently a student at Istanbul Kultur University Computer Engineering department.          
-💻 I am deeply interested in Backend development.                                                                        
-Welcome to my GitHub profile!
+## Hi, I'm Hatice Demir
+
+**Backend Developer | Computer Engineer**
+
+I enjoy working on backend systems and building reliable, scalable applications.  
+I am a **Computer Engineering graduate** from **Istanbul Kultur University**, with a strong focus on backend development, software architecture, and database-driven systems.
+
+### Tech Stack & Focus
+- **Backend Development:** C#, .NET, ASP.NET MVC, RESTful APIs  
+- **Databases:** SQL Server, MySQL  
+- **Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms  
+- **Tools & Practices:** Git, GitHub, Agile/Scrum, Unit Testing  
+
+### Currently Improving
+- Clean code & backend architecture  
+- API design and security principles  
+- Database performance and optimization  
+
+### How to Reach Me
+- **Email:** htc.dmiir01@gmail.com  
+
+I’m always eager to learn, improve, and contribute to meaningful backend projects.
 
 
-
-- 📫 How to reach me **htc.dmiir01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

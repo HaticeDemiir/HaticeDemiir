@@ -7,7 +7,7 @@ I am a **Computer Engineering graduate** from **Istanbul Kultur University**, wi
 
 ### Tech Stack & Focus
 - **Backend Development:** C#, .NET, ASP.NET MVC, RESTful APIs  
-- **Databases:** SQL Server, MySQL  
+- **Databases:** SQL Server, MySQL, **Neo4j (Graph Database)** 
 - **Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms  
 - **Tools & Practices:** Git, GitHub, Agile/Scrum, Unit Testing  
 

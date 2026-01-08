@@ -3,7 +3,7 @@
 **Backend Developer | Computer Engineer**
 
 I enjoy working on backend systems and building reliable, scalable applications.  
-I am a **Computer Engineering graduate** from **Istanbul Kultur University**, with a strong focus on backend development, software architecture, and database-driven systems.
+I am a **Computer Engineering graduate** from **Istanbul Kultur University**, with a strong focus on backend development, software architecture and database-driven systems.
 
 ### Tech Stack & Focus
 - **Backend Development:** C#, .NET, ASP.NET MVC, RESTful APIs  
@@ -19,7 +19,7 @@ I am a **Computer Engineering graduate** from **Istanbul Kultur University**, wi
 ### How to Reach Me
 - **Email:** htc.dmiir01@gmail.com  
 
-I’m always eager to learn, improve, and contribute to meaningful backend projects.
+I’m always eager to learn, improve and contribute to meaningful projects.
 
 
 
